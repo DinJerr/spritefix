@@ -33,7 +33,7 @@ This script will convert the sprite into 32-bit sprites so that transparency is 
 
 ## Additional Help 
 - Take note that not *all* sprites need to be fixed, and soome models may have better output without the padded pixels. Use only if fringe artifacts appear on the upscaled sprite.
-If you have any questions, we have a [discord server](https://discord.gg/cpAUpDK) where you can ask them and a [Wiki](https://upscale.wiki) with more information.
+- If you have any questions, we have a [discord server](https://discord.gg/cpAUpDK) where you can ask them and a [Wiki](https://upscale.wiki) with more information.
 
 ---
 
