@@ -18,7 +18,6 @@ This script will convert the sprite into 32-bit sprites so that transparency is 
 ## Dependencies
 
 - Python 3 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux))
-- [PyTorch >= 0.4.0](https://pytorch.org/)
 - Python packages: `pip install numpy opencv-python`
 
 ## How to use
